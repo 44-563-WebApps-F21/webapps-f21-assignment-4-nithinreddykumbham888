@@ -1,0 +1,73 @@
+.speech{
+      font-family: "Times New Roman", Times, serif;
+      font-size: 18px;
+      color: black;
+}
+
+.stage-direction{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 18px;
+    color: black;
+    background-color: lightseagreen;
+}
+
+.stage-direction:hover{
+    color: red;
+    background-color: orange;
+}
+
+.president{
+    font-family: "Times New Roman", Times, serif;
+      font-size: 18px;
+      color: orchid;
+}
+
+.consp{
+    font-family: "Times New Roman", Times, serif;
+      font-size: 18px;
+      color: yellowgreen;
+}
+
+
+.firstconsp{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 18px;
+    color: blueviolet;
+}
+
+.secondconsp{
+    font-family: "Times New Roman", Times, serif;
+      font-size: 18px;
+      color: peru;
+}
+
+.thirdconsp{
+    font-family: "Times New Roman", Times, serif;
+      font-size: 18px;
+      color: rebeccapurple;
+}
+
+.forthconsp{
+    font-family: "Times New Roman", Times, serif;
+      font-size: 18px;
+      color: violet;
+}
+
+.fifthconsp{
+    font-family: "Times New Roman", Times, serif;
+      font-size: 18px;
+      color: salmon;
+}
+
+.vera{
+    font-family: "Times New Roman", Times, serif;
+      font-size: 18px;
+      color: rosybrown;
+}
+
+.paul{
+    font-family: "Times New Roman", Times, serif;
+      font-size: 18px;
+      color: goldenrod;
+}
+
