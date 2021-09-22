@@ -93,3 +93,7 @@ th,td{
   margin: 10px;
 }
 
+a:hover{
+     color:red;
+}
+
