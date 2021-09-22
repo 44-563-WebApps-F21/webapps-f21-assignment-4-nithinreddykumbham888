@@ -22,10 +22,20 @@
       color: orchid;
 }
 
+.president:hover{
+  color: yellow;
+  text-shadow: 2px 0 2px black, 0 1px 2px black, 1px 0 2px black, 0 -1px 2px black;
+}
+
 .present{
     font-family: "Times New Roman", Times, serif;
       font-size: 18px;
       color: rgb(205, 50, 71);
+}
+
+.present:hover{
+  color: violet;
+  text-shadow: 2px 0 2px black, 0 1px 2px black, 1px 0 2px black, 0 -1px 2px black;
 }
 
 
@@ -35,6 +45,10 @@
       color: yellowgreen;
 }
 
+.consp:hover,.firstconsp:hover,.secondconsp:hover,.thirdconsp:hover,.forthconsp:hover,.fifthconsp:hover{
+  color: peru;
+  text-shadow: 2px 0 2px black, 0 1px 2px black, 1px 0 2px black, 0 -1px 2px black;
+}
 
 .firstconsp{
     font-family: "Times New Roman", Times, serif;
@@ -72,10 +86,20 @@
       color: rosybrown;
 }
 
+.vera:hover{
+  color: palevioletred;
+  text-shadow: 2px 0 2px black, 0 1px 2px black, 1px 0 2px black, 0 -1px 2px black;
+}
+
 .paul{
     font-family: "Times New Roman", Times, serif;
       font-size: 18px;
       color: goldenrod;
+}
+
+.paul:hover{
+  color: goldenrod;
+  text-shadow: 2px 0 2px black, 0 1px 2px black, 1px 0 2px black, 0 -1px 2px black;
 }
 
 .table{
