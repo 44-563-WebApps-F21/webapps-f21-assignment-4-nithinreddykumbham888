@@ -121,3 +121,8 @@ a:hover{
      color:red;
 }
 
+li{
+     display: inline;
+     padding: 15px;
+
+}
